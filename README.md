@@ -1,53 +1,31 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 03/09/2014
+tags: woodworking
+description: Not one of my more glamorous projects, but hey, sometimes things just need to function. This is a single pivot design bow string jig.
+slug: bow-string-jig
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Bow String Jig
+
+Not one of my more glamorous projects, but hey, sometimes things just need to function. This is a single pivot design bow string jig.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Bow String Jig](#bow-string-jig)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
   - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+Not one of my more glamorous projects, but hey, sometimes things just need to function. This is a single-pivot design bowstring jig. I don’t personally see the need for a double pivot but I guess if you were doing lots of strings, it would be nice. For the design, I will refer you to the videos done by Backyard Bowyer on YouTube. I based mine on his and after using mine, I think his version is better.
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+I used aluminum pins as the posts instead of screws, and I used washers under the boards to slide in the cable channel. His decision to use wood blocks is better and I recommend doing that. Shown below is my first string made on this jig - or ever for that matter. Not the prettiest string ever but it was my first one so go easy on me. The string functions perfectly and is much better than the old one that the bow had.
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Oh, I thought up a rather clever way to polish the inside of a hole as this was critical to not damaging the serving thread. Coat a piece of twine in a polish compound and then use that in a flossing motion through the hole until nice and smooth. Seemed to work great and is something I will log away for future use.
 
 ## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+- [Backyard Bowyer](https://www.youtube.com/user/BackyardBowyer)
